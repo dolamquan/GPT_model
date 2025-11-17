@@ -1,0 +1,5 @@
+# large model weights – do NOT push to GitHub
+*.pth
+Chapter 5/gpt2/124M/model.ckpt.data-00000-of-00001
+Chapter 5/gpt2/124M/model.ckpt.index
+Chapter 5/gpt2/124M/model.ckpt.meta
