@@ -1,0 +1,2 @@
+text,Predicted Class,timestamp
+Hello,"{""label"": ""ham"", ""confidences"": [{""label"": ""ham"", ""confidence"": 0.9323244690895081}, {""label"": ""spam"", ""confidence"": 0.06767549365758896}]}",2025-11-20 23:20:25.500134
